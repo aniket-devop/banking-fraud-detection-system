@@ -83,3 +83,24 @@ Push to Container Registry
 Deploy on AWS EC2
     ↓
 Live Production System 🚀
+
+
+
+---
+
+## 🐳 DevOps Highlights
+
+✔ Docker-based microservices  
+✔ Automated deployment pipeline  
+✔ Cloud-ready architecture  
+✔ API-based service communication  
+✔ Production-level system design  
+
+---
+
+## 📦 How to Run
+
+### 🖥️ Frontend
+```bash id="frontend_run"
+npm install
+npm start
